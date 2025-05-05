@@ -3,17 +3,21 @@ import './App.css'
 import {Footer} from "./components/Footer";
 import {Header} from "./components/Header";
 import {PageContent} from "./components/PageContent";
+import {PageLayout} from "./components/PageLayout";
 
 function App() {
 
   return (
     <>
 
-    <Header />
+    {/* <Header /> */}
+    <PageLayout>
 
-    <PageContent targetContent="home" theme="dark" />
+      <PageContent targetContent="home" theme="dark" />
 
-    <Footer />
+    </PageLayout>
+
+    {/* <Footer /> */}
 
       {/* <header>
 

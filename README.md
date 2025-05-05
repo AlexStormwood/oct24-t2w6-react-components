@@ -1,5 +1,24 @@
 # React + Vite
 
+
+
+## Lesson goals
+
+### Monday
+
+- (done) ReactJS components with props 
+- (done) Conditional rendering
+- Child components 
+
+(maybe)
+- Class components 
+- Class lifecycle methods
+- Class component state 
+
+
+
+# Template content 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
